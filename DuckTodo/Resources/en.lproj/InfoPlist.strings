@@ -1,0 +1,2 @@
+CFBundleDisplayName = "Duck Todo";
+NSLocationWhenInUseUsageDescription = "We need access to your location to automatically switch the display language";

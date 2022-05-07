@@ -1,0 +1,113 @@
+{
+  "pins" : [
+    {
+      "identity" : "coordinator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/Coordinator",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9cf8cb56f37d7c1eb2499ebc0990b23bc69194b7"
+      }
+    },
+    {
+      "identity" : "defaults",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sindresorhus/Defaults",
+      "state" : {
+        "branch" : "main",
+        "revision" : "3535f3d088113cf24705014eec6a17f0fd73237f"
+      }
+    },
+    {
+      "identity" : "diagnostics",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vmanot/Diagnostics.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f2e2a1a8ff9b32599793d9f4f7d481a76c32991b"
+      }
+    },
+    {
+      "identity" : "foundationx",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vmanot/FoundationX.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "f19dcf381ab654ce24903abdb24b35df9359648e"
+      }
+    },
+    {
+      "identity" : "merge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vmanot/Merge.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "3032043bc8d516967706bbe721040cafa3c18395"
+      }
+    },
+    {
+      "identity" : "navigationviewkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fatbobman/NavigationViewKit",
+      "state" : {
+        "revision" : "e7d286349da90f591091c53b58c2a2e0c6816585",
+        "version" : "0.0.5"
+      }
+    },
+    {
+      "identity" : "swallow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/vmanot/Swallow.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c91229be1a6fce9612568b10dea95c6f25970502"
+      }
+    },
+    {
+      "identity" : "swift-case-paths",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swift-case-paths",
+      "state" : {
+        "revision" : "ce9c0d897db8a840c39de64caaa9b60119cf4be8",
+        "version" : "0.8.1"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+        "version" : "1.4.2"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "f2616860a41f9d9932da412a8978fec79c06fe24",
+        "version" : "0.1.4"
+      }
+    },
+    {
+      "identity" : "swiftui-navigation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pointfreeco/swiftui-navigation",
+      "state" : {
+        "revision" : "2694c03284a368168b3e0b8d7ab52626802d2246",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swiftuix",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftUIX/SwiftUIX",
+      "state" : {
+        "branch" : "master",
+        "revision" : "fe9fca48bdeb5fdaa8bd15112407e656c6094ac9"
+      }
+    }
+  ],
+  "version" : 2
+}

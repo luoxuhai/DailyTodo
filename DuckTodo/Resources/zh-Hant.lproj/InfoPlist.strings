@@ -1,0 +1,2 @@
+CFBundleDisplayName = "待办鸭";
+NSLocationWhenInUseUsageDescription = "我们需要访问您的位置信息才能自动切换显示语言";
