@@ -1,0 +1,83 @@
+// Purchase
+Purchase.Pro = "Daily Todo Pro";
+Purchase.Title = "Upgrade to Daily Todo Pro";
+Purchase.Description = "Permanently Unlock All Features";
+Purchase.Purchasing = "Purchasing";
+Purchase.PurchaseSuccess = "Successful Purchase";
+Purchase.PurchaseFail = "Failed Purchase";
+Purchase.Purchased = "Purchased";
+Purchase.Restore = "Restore";
+Purchase.Restoring = "Restoring";
+Purchase.RestoreSuccess = "Restore Purchase Successfully";
+Purchase.RestoreFail = "Failed to Restore Purchases";
+Purchase.RestoreFail.Message = "Please buy";
+Purchase.Help = "The Apple Account will be charged to the user after the user confirms the purchase and pays for it. If you have any questions, please ";
+Purchase.BuyButton = "Purchase";
+Purchase.MoreFeatures = "More features coming soon...";
+Purchase.FetchInfo.Fail.Title = "Failed to Get In-app Purchase Information";
+Purchase.FetchInfo.Fail.Message = "Please try again later";
+Purchase.Card.Button = "Get";
+
+// Setting
+Settings.Title = "Settings";
+Settings.FaceID = "Unlock with Face ID";
+Settings.TouchID = "Unlock with Touch ID";
+Settings.Appearance = "Appearance";
+Settings.CloudSync = "Multi-device Sync";
+Settings.HiddinWidget = "Hiddin Widget Content";
+Settings.AppLanguage = "Language";
+Settings.About = "About";
+Settings.AppVersion = "Version";
+Settings.Feedback = "Feedback & Help";
+Settings.HapticFeedback = "Haptic Feedback";
+Settings.Contact = "Contact Us";
+Settings.PrivacyPolicy = "Privacy Policy";
+Settings.UserAgreement = "User Agreement";
+Settings.GoodReview = "Good Review";
+
+PrivacyPolicy.URL = "https://daily-todo-web.netlify.app/en-us/privacy-policy";
+UserAgreement.URL = "https://daily-todo-web.netlify.app/en-us/user-agreement";
+Feedback.URL = "mailto:darkce97@gmail.com";
+
+MoreApps.Title = "More Apps";
+MoreApps.PSpace = "Privacy Space";
+MoreApps.PSpace.Desc = "Hide private pictures, videos and files";
+
+// Appearance Settings
+Appearance.Automatic = "Automatic";
+Appearance.Light = "Light";
+Appearance.Dark = "Dark";
+
+
+// Lists
+Lists.Title = "Lists";
+Lists.Add = "New List";
+Lists.Editor.Create.Title = "New List";
+Lists.Editor.Update.Title = "Edit List";
+Lists.Editor.Name.Placeholder = "List Name";
+Lists.WeclomeView.Title = "Weclome";
+Lists.Empty = "No List";
+
+TodoItems.Add = "New Task";
+TodoItems.Reset = "Reset";
+Tasks.Editor.Name.Placeholder = "New Task";
+Tasks.Empty = "No Task";
+
+// Lock screen
+LockScreen.UnlockWithFaceId = "Click to Unlock with Face ID";
+LockScreen.UnlockWithTouchId = "Click to Unlock with Touch ID";
+LockScreen.LocalAuth.PromptMessage = "For Unlock";
+
+// Common
+Common.OK = "OK";
+Common.Cancel = "Cancel";
+Common.Reset = "Reset";
+Common.Edit = "Edit";
+Common.Save = "Save";
+Common.Done = "Done";
+Common.Delete = "Delete";
+Common.Create = "Create";
+Common.Back = "Back";
+Common.Close = "Close";
+Common.Yes = "Yes";
+Common.No = "No";

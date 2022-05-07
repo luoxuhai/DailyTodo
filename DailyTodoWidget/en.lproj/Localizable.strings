@@ -1,0 +1,5 @@
+WidgetDisplayName = "Daily Todo";
+WidgetDescription = "View To-Do list";
+ListWidgetEntryViewTitle = "To-Do List";
+WidgetLocked = "Locked";
+WidgetNoData = "No Todo";

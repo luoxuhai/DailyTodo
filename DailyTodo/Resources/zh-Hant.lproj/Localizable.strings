@@ -1,0 +1,83 @@
+// Purchase
+Purchase.Pro = "每日待辦高級版";
+Purchase.Title = "升級為 每日待辦高級版";
+Purchase.Description = "解鎖全部功能";
+Purchase.Purchasing = "購買中";
+Purchase.PurchaseSuccess = "購買成功";
+Purchase.PurchaseFail = "購買失敗";
+Purchase.Purchased = "已購買";
+Purchase.Restore = "恢復購買";
+Purchase.Restoring = "恢復購買中";
+Purchase.RestoreSuccess = "恢復購買成功";
+Purchase.RestoreFail = "恢復購買失敗";
+Purchase.RestoreFail.Message = "請先購買";
+Purchase.Help = "用戶確認購買並付款後將記入 Apple 賬戶。如果您有任何疑問，請 ";
+Purchase.BuyButton = "開通永久會員";
+Purchase.MoreFeatures = "更多功能即將推出...";
+Purchase.FetchInfo.Fail.Title = "獲取內購失敗";
+Purchase.FetchInfo.Fail.Message = "請稍後再試";
+Purchase.Card.Button = "獲取";
+
+// Setting
+Settings.Title = "設置";
+Settings.FaceID = "面容鎖";
+Settings.TouchID = "指紋鎖";
+Settings.Appearance = "外觀";
+Settings.CloudSync = "多設備同步";
+Settings.HiddinWidget = "隱藏小組件內容";
+Settings.AppLanguage = "語言";
+Settings.About = "關於";
+Settings.AppVersion = "版本";
+Settings.Feedback = "反饋建議";
+Settings.HapticFeedback = "觸覺反饋";
+Settings.Contact = "聯繫我們";
+Settings.PrivacyPolicy = "隱私政策";
+Settings.UserAgreement = "用戶協議";
+Settings.GoodReview = "給個好評";
+
+PrivacyPolicy.URL = "https://daily-todo-web.netlify.app/zh-cn/privacy-policy";
+UserAgreement.URL = "https://daily-todo-web.netlify.app/zh-cn/user-agreement";
+Feedback.URL = "https://support.qq.com/product/404395";
+
+MoreApps.Title = "更多 App";
+MoreApps.PSpace = "隱私空間";
+MoreApps.PSpace.Desc = "隱藏私人圖片、視頻和文件";
+
+// Appearance Settings
+Appearance.Automatic = "跟隨系統";
+Appearance.Light = "淺色";
+Appearance.Dark = "深色";
+
+
+// Lists
+Lists.Title = "待辦列表";
+Lists.Add = "添加新列表";
+Lists.Editor.Create.Title = "新列表";
+Lists.Editor.Update.Title = "編輯列表";
+Lists.Editor.Name.Placeholder = "列表名稱";
+Lists.WeclomeView.Title = "歡迎";
+
+// Tasks
+TodoItems.Add = "添加新任務";
+TodoItems.Reset = "重置";
+Tasks.Editor.Name.Placeholder = "新建任務";
+Tasks.Empty = "沒有任務";
+
+// Lock screen
+LockScreen.UnlockWithFaceId = "點擊進行面容 ID 解鎖";
+LockScreen.UnlockWithTouchId = "點擊進行指紋解鎖";
+LockScreen.LocalAuth.PromptMessage = "用於解鎖";
+
+// Common
+Common.OK = "確定";
+Common.Cancel = "取消";
+Common.Reset = "重置";
+Common.Edit = "編輯";
+Common.Save = "保存";
+Common.Done = "完成";
+Common.Delete = "刪除";
+Common.Create = "創建";
+Common.Back = "返回";
+Common.Close = "關閉";
+Common.Yes = "是";
+Common.No = "否";

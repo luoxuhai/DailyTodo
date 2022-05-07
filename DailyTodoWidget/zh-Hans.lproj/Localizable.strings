@@ -1,0 +1,5 @@
+WidgetDisplayName = "每日待办";
+WidgetDescription = "查看待办列表";
+ListWidgetEntryViewTitle = "待办列表";
+WidgetLocked = "已锁定";
+WidgetNoData = "没有待办";

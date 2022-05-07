@@ -1,0 +1,86 @@
+// Purchase
+Purchase.Pro = "每日待办高级版";
+Purchase.Title = "升级为 每日待办高级版";
+Purchase.Description = "解锁全部功能";
+Purchase.Purchasing = "购买中";
+Purchase.PurchaseSuccess = "购买成功";
+Purchase.PurchaseFail = "购买失败";
+Purchase.Purchased = "已购买";
+Purchase.Restore = "恢复购买";
+Purchase.Restoring = "恢复购买中";
+Purchase.RestoreSuccess = "恢复购买成功";
+Purchase.RestoreFail = "恢复购买失败";
+Purchase.RestoreFail.Message = "请先购买";
+Purchase.Help = "用户确认购买并付款后将记入 Apple 账户。如果您有任何疑问，请 ";
+Purchase.BuyButton = "开通永久会员";
+Purchase.MoreFeatures = "更多功能即将推出...";
+Purchase.FetchInfo.Fail.Title = "获取内购失败";
+Purchase.FetchInfo.Fail.Message = "请稍后再试";
+Purchase.Card.Button = "获取";
+
+// Setting
+Settings.Title = "设置";
+Settings.FaceID = "面容锁";
+Settings.TouchID = "指纹锁";
+Settings.Appearance = "外观";
+Settings.CloudSync = "多设备同步";
+Settings.HiddinWidget = "隐藏小组件内容";
+Settings.AppLanguage = "语言";
+Settings.About = "关于";
+Settings.AppVersion = "版本";
+Settings.Feedback = "反馈建议";
+Settings.HapticFeedback = "触觉反馈";
+Settings.Contact = "联系我们";
+Settings.PrivacyPolicy = "隐私政策";
+Settings.UserAgreement = "用户协议";
+Settings.GoodReview = "给个好评";
+
+PrivacyPolicy.URL = "https://daily-todo-web.netlify.app/zh-cn/privacy-policy";
+UserAgreement.URL = "https://daily-todo-web.netlify.app/zh-cn/user-agreement";
+Feedback.URL = "https://support.qq.com/product/404395";
+
+MoreApps.Title = "更多 App";
+MoreApps.PSpace = "隐私空间";
+MoreApps.PSpace.Desc = "隐藏私人图片、视频和文件";
+
+// Appearance Settings
+Appearance.Automatic = "跟随系统";
+Appearance.Light = "浅色";
+Appearance.Dark = "深色";
+
+
+// Lists
+Lists.Title = "待办列表";
+Lists.Add = "添加新列表";
+Lists.Editor.Create.Title = "新列表";
+Lists.Editor.Update.Title = "编辑列表";
+Lists.Editor.Name.Placeholder = "列表名称";
+Lists.Delete.Alert.Title = "确认删除";
+Lists.Delete.Alert.Msg = "删除后不可恢复";
+Lists.WeclomeView.Title = "欢迎";
+Lists.Empty = "没有列表";
+
+// Tasks
+TodoItems.Add = "添加新任务";
+TodoItems.Reset = "重置";
+Tasks.Editor.Name.Placeholder = "新建任务";
+Tasks.Empty = "没有任务";
+
+// Lock screen
+LockScreen.UnlockWithFaceId = "点击进行面容 ID 解锁";
+LockScreen.UnlockWithTouchId = "点击进行指纹解锁";
+LockScreen.LocalAuth.PromptMessage = "用于解锁";
+
+// Common
+Common.OK = "确定";
+Common.Cancel = "取消";
+Common.Reset = "重置";
+Common.Edit = "编辑";
+Common.Save = "保存";
+Common.Done = "完成";
+Common.Delete = "删除";
+Common.Create = "创建";
+Common.Back = "返回";
+Common.Close = "关闭";
+Common.Yes = "是";
+Common.No = "否";

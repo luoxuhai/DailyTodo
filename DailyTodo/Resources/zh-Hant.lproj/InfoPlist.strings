@@ -1,0 +1,2 @@
+CFBundleDisplayName = "每日待辦";
+NSFaceIDUsageDescription = "App會在您使用面容解鎖功能時，訪問您的面容ID權限，為了快速解鎖";

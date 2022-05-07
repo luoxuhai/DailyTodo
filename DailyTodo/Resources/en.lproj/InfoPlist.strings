@@ -1,0 +1,2 @@
+CFBundleDisplayName = "Daily Todo";
+NSFaceIDUsageDescription = "The app will access your face ID permission when you use the face unlock feature, in order to unlock quickly.";
