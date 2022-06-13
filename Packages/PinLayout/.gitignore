@@ -1,0 +1,18 @@
+# Xcode
+#
+
+.build/
+build/
+xcuserdata
+data/
+
+Pods/
+
+TestProjects/cocoapods/ios/PinLayout-iOS.xcworkspace/
+TestProjects/cocoapods/macos/PinLayout-macOS.xcworkspace/
+TestProjects/cocoapods/tvos/PinLayout-tvOS.xcworkspace/
+
+TestProjects/carthage/ios/Cartfile.resolved
+TestProjects/carthage/ios/Carthage/
+
+Example/PinLayoutExampleMacOS

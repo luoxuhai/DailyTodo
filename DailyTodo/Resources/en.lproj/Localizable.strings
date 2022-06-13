@@ -35,8 +35,8 @@ Settings.PrivacyPolicy = "Privacy Policy";
 Settings.UserAgreement = "User Agreement";
 Settings.GoodReview = "Good Review";
 
-PrivacyPolicy.URL = "https://daily-todo-web.netlify.app/en-us/privacy-policy";
-UserAgreement.URL = "https://daily-todo-web.netlify.app/en-us/user-agreement";
+PrivacyPolicy.URL = "https://darkce.net/app/daily-todo/en-us/privacy-policy";
+UserAgreement.URL = "https://darkce.net/app/daily-todo/en-us/user-agreement";
 Feedback.URL = "mailto:darkce97@gmail.com";
 
 MoreApps.Title = "More Apps";

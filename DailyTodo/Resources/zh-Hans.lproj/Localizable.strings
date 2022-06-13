@@ -35,8 +35,8 @@ Settings.PrivacyPolicy = "隐私政策";
 Settings.UserAgreement = "用户协议";
 Settings.GoodReview = "给个好评";
 
-PrivacyPolicy.URL = "https://daily-todo-web.netlify.app/zh-cn/privacy-policy";
-UserAgreement.URL = "https://daily-todo-web.netlify.app/zh-cn/user-agreement";
+PrivacyPolicy.URL = "https://darkce.net/app/daily-todo/zh-cn/privacy-policy";
+UserAgreement.URL = "https://darkce.net/app/daily-todo/zh-cn/user-agreement";
 Feedback.URL = "https://support.qq.com/product/404395";
 
 MoreApps.Title = "更多 App";

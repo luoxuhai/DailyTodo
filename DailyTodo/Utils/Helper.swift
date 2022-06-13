@@ -22,3 +22,7 @@ extension Helper {
         }
     }
 }
+
+public func LocalizedString(_ key: String, comment: String = "") -> String {
+    return NSLocalizedString(key, comment: comment)
+}

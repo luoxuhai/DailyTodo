@@ -24,12 +24,6 @@ struct DTConfig {
     
     // 内购产品id
     static let productId = "net.darkce.checklist.purchase.pro"
-    
-    static let feedbackUrl = "https://support.qq.com/product/404395"
-    static let privacyPolicy = ["zh_cn": "https://privatespace-4gagcjdu022008e0-1258504012.tcloudbaseapp.com/zh-cn/privacy-policy.html",
-                                "en_us":"https://private-space-web.netlify.app/en-us/privacy-policy"]
-    static let userAgreement = ["zh_cn": "https://privatespace-4gagcjdu022008e0-1258504012.tcloudbaseapp.com/zh-cn/privacy-policy.html",
-                                "en_us":"https://private-space-web.netlify.app/en-us/privacy-policy"]
 }
 
 struct MoreAppUrls {

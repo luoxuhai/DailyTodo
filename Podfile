@@ -6,13 +6,16 @@ target 'DailyTodo' do
   use_frameworks!
 
   # Pods for DailyTodo
-  pod 'Sentry', :git => 'https://github.com/getsentry/sentry-cocoa.git', :tag => '7.13.0'
+  pod 'Sentry', '~>7.13.0'
   pod 'Alamofire'
   pod 'SwiftDate', '~> 6.0'
   pod 'SwiftyStoreKit'
   pod 'RealmSwift', '~>10'
-  pod 'SyncKit/RealmSwift', :path => './Packages/SyncKit'
+  pod 'SyncKit/RealmSwift', '~> 1.3.0'
   pod 'SFSafeSymbols', '~> 3.3.2'
   pod 'GDPerformanceView-Swift', '~> 2.0'
+  pod 'XCoordinator/Combine', '~> 2.0'
+  pod 'PinLayout', :path => './Packages/PinLayout'
+  pod 'FlexLayout', :path => './Packages/FlexLayout'
   
 end

@@ -1,5 +1,18 @@
-WidgetDisplayName = "每日待办";
-WidgetDescription = "查看待办列表";
-ListWidgetEntryViewTitle = "待办列表";
-WidgetLocked = "已锁定";
-WidgetNoData = "没有待办";
+
+
+"ListWidgetEntryViewTitle" = "待办列表";
+
+
+"NSFaceIDUsageDescription" = "App会在您使用面容解锁功能时，访问您的面容ID权限，为了快速解锁";
+
+
+"WidgetDescription" = "查看待办列表";
+
+
+"WidgetDisplayName" = "每日待办";
+
+
+"WidgetLocked" = "已锁定";
+
+
+"WidgetNoData" = "没有待办";
